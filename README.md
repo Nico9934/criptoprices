@@ -1,4 +1,4 @@
-![Caratula del encriptador de alura](./src/assets/Encriptador.png)
+![Caratula de cotizador Cripto](./src/img/Portada.png)
 
 # Cotizador de Criptomonedas
 
