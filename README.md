@@ -2,9 +2,9 @@
 
 # Cotizador de Criptomonedas
 
+
 ## Deploy del proyecto ™️
-
-
+https://criptoprices.netlify.app/
 
 ####  Project by: Nico Rolon ©️
 ## 🔶 Sobre El proyecto 🔶
